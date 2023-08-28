@@ -5,6 +5,8 @@ Problem 4->Given a binary matrix, find the maximum size square sub-matrix with a
 Problem 5->minimum number of jumps to reach the end 
 problem 6->0-1 knapsack problem
 problem 7->Word break problem
+problem->8=Maximum number of Activities
+
 
 
 
